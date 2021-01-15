@@ -167,7 +167,7 @@ export enum ErrorCode {
  * Keep this value in sync with a similar const in
  * `packages/core/src/render3/error_code.ts`.
  */
-export const ERROR_DETAILS_PAGE_BASE_URL = 'https://angular.io/errors';
+export const ERROR_DETAILS_PAGE_BASE_URL = 'go/ngerr';
 
 /**
  * @internal

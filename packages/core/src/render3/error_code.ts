@@ -9,7 +9,7 @@
 // Base URL for the error details page.
 // Keep this value in sync with a similar const in
 // `packages/compiler-cli/src/ngtsc/diagnostics/src/error_code.ts`.
-const ERROR_DETAILS_PAGE_BASE_URL = 'https://angular.io/errors';
+const ERROR_DETAILS_PAGE_BASE_URL = 'go/ngerr';
 
 export const enum RuntimeErrorCode {
   // Internal Errors
