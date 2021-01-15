@@ -42,6 +42,9 @@
     "name": "NodeInjectorFactory"
   },
   {
+    "name": "RUNTIME_ERRORS_WITH_GUIDES"
+  },
+  {
     "name": "RuntimeError"
   },
   {
